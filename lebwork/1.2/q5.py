@@ -1,0 +1,8 @@
+name=input("enter user name : ")
+hei=float(input("enter your height in meter : "))
+wei=float(input("enter your weight in kg : "))
+print("---------------------------")
+print("|  user name is  ",name,"   |")
+print("|  user height is ",hei," |" )
+print("|  user weight is ",wei," |")    
+print("---------------------------") 
