@@ -86,7 +86,7 @@ while True:
             found=False
             for studen1 in all_student:
                 if(student1['id']==did):
-                    all_student.remove(student1)
+                    all_student.remove(student1)      
                     found=True
                     print("student deleted")
                     break
