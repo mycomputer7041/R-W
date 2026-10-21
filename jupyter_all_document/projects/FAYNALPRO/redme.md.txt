@@ -1,0 +1,17 @@
+Titanic Survival Analysis
+
+ Project Description
+This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to understand the key factors that influenced passenger survival rates, such as age, gender, and passenger class.
+
+ Dataset
+The dataset is taken from Kaggle's Titanic Machine Learning competition.
+
+ Tools & Libraries Used
+- Python
+- Pandas (Data Manipulation)
+- Matplotlib & Seaborn (Data Visualization)
+
+ Key Findings
+- **Gender:** Female passengers had a significantly higher survival rate compared to males.
+- **Ticket Class:** Passengers in First Class (1st) had a higher chance of survival.
+- **Age:** Children had higher survival rates in various groups.
